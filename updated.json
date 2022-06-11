@@ -1,0 +1,85 @@
+{
+    "name": "Girl #3859",
+    "symbol": "OMG",
+    "description": "5,000 girls who don't remember where they came from appear on the Solana Blockchain. 210+ traits hand-drawn by Italian street artist Nick Neim.",
+    "seller_fee_basis_points": 9999,
+    "external_url": "https://www.ohmygirls.world",
+    "image": "https://arweave.net/uWkmyN7D8tADbjTQEpE5yOMxaKzwO3VFqwqnEd5pO2k?ext=png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Psychedelics"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Red Necklace"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Long"
+        },
+        {
+            "trait_type": "Earrings",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "KissKiss"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Strized"
+        },
+        {
+            "trait_type": "Head Accessory",
+            "value": "Policeman's Hat"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "Oh My Girls",
+        "family": "Oh My Girls"
+    },
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "https://arweave.net/uWkmyN7D8tADbjTQEpE5yOMxaKzwO3VFqwqnEd5pO2k?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "4E2ng3VehKyUWJeC1W9sW51geYypmiTmLf46fUsaTUtp",
+                "share": 1
+            },
+            {
+                "address": "6VTSmb988SPDt6AZTS6wgY8PsAXLjM9NANwztPMLXAZ7",
+                "share": 1
+            },
+            {
+                "address": "ASLFFBaZLsevjuEQ8GAkqKEfXRXcsDYBDtLNhuj6dcXn",
+                "share": 1
+            },
+            {
+                "address": "E5nyDiki9LtgFfsmccewfbQyFvCLhLEr6kq6hP2HWWNW",
+                "share": 97
+            }
+        ]
+    }
+}
